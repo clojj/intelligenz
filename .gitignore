@@ -1,5 +1,4 @@
-
-.gitignore
-.idea/
-producer/target/
-receiver/target/
+/.idea/
+*.iml
+/producer/target/
+/receiver/target/
